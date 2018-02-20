@@ -1,0 +1,9 @@
+Building RipplePlus
+
+See doc/readme-qt.rst for instructions on building RipplePlus QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of RipplePlus.
+
+See doc/build-*.txt for instructions on building RipplePlusd,
+the intended-for-services, no-graphical-interface, reference
+implementation of RipplePlus.
